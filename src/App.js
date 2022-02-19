@@ -3,13 +3,7 @@ import React from "react";
 import ImageList from "@mui/material/ImageList";
 import ImageListItem from "@mui/material/ImageListItem";
 import ImageListItemBar from "@mui/material/ImageListItemBar";
-import {
-  Carousel,
-  CarouselIndicators,
-  CarouselItem,
-  CarouselCaption,
-  CarouselControl,
-} from "reactstrap";
+
 import Img from "./image/Anh trang chu.png";
 import Img1 from "./image/khach-san-phu-quoc-spa-du-lich-viet.jpeg";
 import Img2 from "./image/Khach-san-vin-osis-du-lich-viet.jpeg";
@@ -71,7 +65,7 @@ function App() {
         </button> */}
       </div>
 
-      <h3>Khách Sạn</h3>
+      <h3>Khách Sạn 6 sao</h3>
       <p>
         <b>Đặt phòng khách sạn :</b>
         Tổng hợp hơn 200,000 khách sạn trong nước và quốc tế đang có khuyến mãi giá tốt, quý khách
