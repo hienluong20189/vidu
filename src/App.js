@@ -65,7 +65,7 @@ function App() {
         </button> */}
       </div>
 
-      <h3>Khách Sạn 6 sao</h3>
+      <h3>Khách Sạn 7 sao</h3>
       <p>
         <b>Đặt phòng khách sạn :</b>
         Tổng hợp hơn 200,000 khách sạn trong nước và quốc tế đang có khuyến mãi giá tốt, quý khách
