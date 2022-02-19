@@ -65,7 +65,8 @@ function App() {
         </button> */}
       </div>
 
-      <h3>Khách Sạn chi hien</h3>
+
+      <h3>Khách Sạn</h3>
 
       <p>
         <b>Đặt phòng khách sạn :</b>
